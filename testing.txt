@@ -1,1 +1,27 @@
-HI
+1. git --version --------------to find the git version in your local machine 
+git version 2.50.1.windows.1    ---------- This is the result
+
+
+
+2. git congif --global user.name "veeramani balasundaram"   -----------------for configuration in my local machine
+   git config --global user.email"veeramani2306@gmmail.com" ------------------ for configuration in my local machine 
+
+3. git config --list  -----------to verify the login and username 
+
+we can create the folder by manually or we can creating using mkdir (foldername) in cmd 
+after folder created then we have to init the folder 
+
+
+4. git init ---------this the initiaion 
+
+5.echo hello Github > README.md ------------ this is used for create the file for project discription 
+
+6. git status ---------------if any untracked file will be there it will show 
+
+7. git add README.md ------------ to stage the file 
+
+8.
+
+
+
+
