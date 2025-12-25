@@ -20,8 +20,14 @@ after folder created then we have to init the folder
 
 7. git add README.md ------------ to stage the file 
 
-8.
+8.git commit -m "content" ----------------this is the commit every time we have to run this query
 
+9.git add (file_name) -----------------the update file added in git 
 
+10. git commit -m "content" --------------again we have to commiy
+
+11.git remote add origin "repositaoryname"  ------------this is integrating with github location 
+
+12. git push origin -u main -----------------this is used for last file update to the github location
 
 
