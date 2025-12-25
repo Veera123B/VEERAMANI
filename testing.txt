@@ -30,6 +30,4 @@ after folder created then we have to init the folder
 
 12. git push origin -u main -----------------this is used for last file update to the github location
 
-13. how to download from the hithub
-
-
+13. git pull origin main -----------------------this command is used for the data received from github
